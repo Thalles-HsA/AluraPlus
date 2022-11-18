@@ -5,7 +5,7 @@
 
 <h1 align="center">Projeto criado no Curso de "Praticando HTML e CSS" da Alura</h1>
 
-<p align="center">Foram relabrados e praticados conceitos básicos de HMTL, CSS, Commito do GitHub e Deploy</p>
+<p>Foram relabrados e praticados conceitos básicos de HMTL, CSS, Commito do GitHub e Deploy</p>
 
 ## Tecnologias
 * HTML
