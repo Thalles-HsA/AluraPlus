@@ -1,11 +1,10 @@
 
-<
 
 <p align="center"> <img src="https://imgur.com/BASzVop.png" alt="HTML e CSS: praticando HTML e CSS"> </p>
 
 
-<H1 align="center">Projeto criado no Curso de "Praticando HTML e CSS" da Alura</H1>
-<br>
+<h1 align="center">Projeto criado no Curso de "Praticando HTML e CSS" da Alura</h1>
+
 <p align="center>Foram relabrados e praticados conceitos básicos de HMTL, CSS, Commito do GitHub e Deploy</p>
 
 ## Tecnologias
